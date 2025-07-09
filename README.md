@@ -97,12 +97,3 @@ Financial-Inclusion-Analysis/
 ## 📊 Data Sources
 - **Global Findex Database**: [micro_world_139countries.csv](./micro_world_139countries.csv) - Microdata from 139 countries
 - **World Bank Databank**: [CountryLevel_DatabankWide.xlsx](./CountryLevel_DatabankWide.xlsx) - Supplementary country-level financial indicators
-
-## 📄 License
-[Specify your license here]
-
-## 🤝 Contributing
-[Your contribution guidelines]
-
-## 📧 Contact
-[Your contact information]
